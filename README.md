@@ -17,10 +17,10 @@
   <div width="100%" align="center">
     <a href="https://github.com/desirekaleba/github-readme-streak-stats" title="Go to Source">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=desirekaleba&theme=react&border=61dafb&hide_border=true" alt="desirekaleba" />
-    </a>
+    </a><br>
     <a href="https://github.com/desirekaleba/github-readme-stats" title="Go to Source">
       <img src="https://github-readme-stats.vercel.app/api?username=desirekaleba&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+    </a><br>
     <a href="https://github.com/desirekaleba/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desirekaleba&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=11&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
