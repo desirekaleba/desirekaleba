@@ -15,7 +15,6 @@ You can find me on <br>
 - 🌱 I’m currently learning Blockchain technologies (Solidity, Web3, DApp, Smart contracts, Truffle, etc).
 - 👯 I’m looking to contribute to a number of open source projects.
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I can type on a guitar 🎸 the same way I do on my keyboard 😄.
 
 <!-- ## &#x270d; Blog & Writing
 
