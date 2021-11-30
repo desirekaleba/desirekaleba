@@ -20,7 +20,7 @@ You can find me on <br>
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -36,7 +36,7 @@ etc
 [![](https://github-readme-streak-stats.herokuapp.com/?user=desirekaleba&theme=react&border=61dafb&hide_border=true)](https://github.com/desirekaleba)
 [![](https://github-readme-stats.vercel.app/api?username=desirekaleba&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/desirekaleba)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=desirekaleba&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=11&layout=compact&border_color=61dafb&hide_border=true)](https://github.com/desirekaleba)
-[![](https://activity-graph.herokuapp.com/graph?username=desirekaleba&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/desirekaleba)
+[![](https://activity-graph.herokuapp.com/graph?username=desirekaleba&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/desirekaleba) -->
 
 
 <!-- ![Profile views](https://gpvc.arturio.dev/desirekaleba) -->
