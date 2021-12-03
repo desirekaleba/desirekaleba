@@ -5,7 +5,7 @@
 </h1>
 
 <!-- I'm a software Engineer. I'm from DR Congo, living in Kampala, Uganda and currently working @fastoservices. You can find me on  -->
-You can find me on <br>
+<!-- You can find me on <br>
 [![Twitter](https://img.shields.io/twitter/follow/Desire__Kaleba?label=Follow)](https://twitter.com/intent/follow?screen_name=Desire__Kaleba)
 [![Linkedin: Desire Kaleba](https://img.shields.io/badge/-desirekaleba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desire-kaleba-a0a122197/)](https://www.linkedin.com/in/desire-kaleba-a0a122197/)
 ![GitHub](https://img.shields.io/github/followers/desirekaleba?label=Follow&style=social)
@@ -15,7 +15,7 @@ You can find me on <br>
 - 🌱 I’m currently learning Blockchain technologies (Solidity, Web3, DApp, Smart contracts, Truffle, etc).
 - 👯 I’m looking to contribute to a number of open source projects.
 - 😄 Pronouns: He/Him/His.
-
+ -->
 <!-- ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
