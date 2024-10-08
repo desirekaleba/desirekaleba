@@ -5,7 +5,7 @@
 </h1>
 
 <!-- Introduction -->
-I’m a **Senior/Lead Full-Stack Developer** with over **5+ years** of experience designing and building scalable web applications. I’m passionate about both **frontend** and **backend development** and specialize in modern frameworks, **RESTful APIs**, **cloud services**, and **DevOps** practices. I have a deep commitment to writing clean, maintainable code and mentoring junior developers.
+I’m a **Full-Stack Developer** with over **5+ years** of experience designing and building scalable web applications. I’m passionate about both **frontend** and **backend development** and specialize in modern frameworks, **RESTful APIs**, **cloud services**, and **DevOps** practices. I have a deep commitment to writing clean, maintainable code and mentoring junior developers.
 
 I’m currently based in **Kampala, Uganda** 🌍, and I’m excited about **contributing to open-source projects** and **collaborating with other developers**.
 
@@ -27,10 +27,10 @@ I’m currently part of a development team at **StartupBlink**, where I work on 
 - **Tools**: Turborepo, GitHub Actions, Prisma, Lerna, tRPC, AWS Lambda
 - **Testing**: Jest, Mocha, Chai, Cypress, Playwright
 
-## 🚀 Stats & Activity
+<!-- ## 🚀 Stats & Activity
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desirekaleba&theme=react&border=61dafb&hide_border=true)](https://github.com/desirekaleba)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=desirekaleba&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/desirekaleba)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desirekaleba&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=11&layout=compact&border_color=61dafb&hide_border=true)](https://github.com/desirekaleba)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desirekaleba&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=11&layout=compact&border_color=61dafb&hide_border=true)](https://github.com/desirekaleba) -->
 
 ## 🏆 Certifications
 - **Google Cloud** Certified
