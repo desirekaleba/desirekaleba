@@ -1,96 +1,106 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Desire+Kaleba;Software+Engineer;Building+AI+%7C+Open+Source+%7C+Products" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1200&color=7C5CFF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Desire+Kaleba;Software+Engineer;Building+AI-powered+Products;Open+Source+Maintainer;Always+Building." />
   </a>
 </h1>
 
 <p align="center">
-Building useful software, one commit at a time.
+  Building software that scales.<br/>
+  AI • Open Source • Cloud • Full Stack
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I'm a software engineer passionate about building products that people genuinely enjoy using.
+I'm a software engineer passionate about building software that solves real problems.
 
-My work spans **AI**, **TypeScript**, **Node.js**, **React**, cloud infrastructure, and modern full-stack development. I enjoy designing systems that are simple, scalable, and maintainable—from developer tooling and APIs to production applications used by thousands of users.
+Over the years I've designed and built scalable backend systems, modern web applications, cloud infrastructure, and production software used by thousands of users. I enjoy taking products from idea to deployment while keeping systems simple, reliable, and maintainable.
 
-When I'm not shipping features, I'm contributing to open source, experimenting with new ideas, or mentoring developers.
-
----
-
-## 🚀 What I'm Building
-
-- 🤖 AI-powered applications
-- 🌍 Open-source developer tools
-- 📦 TypeScript libraries
-- ⚡ Scalable backend systems
-- 💡 Independent products including **PageVow**
+Outside of my day job, I build independent products, contribute to open source, and explore the latest advances in AI and software engineering.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 What I'm Building
 
-### Languages
+### 🌍 PageVow
 
-TypeScript • JavaScript • Python • Go
+Building a platform that helps people create beautiful, personalized pages.
 
-### Frontend
+### 🌍 Velabid
 
-React • Next.js • Tailwind CSS
+Building a platform that helps people bid on high performance cars.
 
-### Backend
+### 📦 Open Source
 
-Node.js • NestJS • Express • Prisma
+Maintainer of **withings-node-oauth2**, a modern OAuth2 client for integrating with the Withings API.
 
-### Databases
+More open-source projects are on the way.
 
-PostgreSQL • MySQL • MongoDB • Redis
+### 🤖 AI
 
-### Cloud
-
-AWS • Docker • Kubernetes • GitHub Actions
-
-### Currently Exploring
-
-LLMs • AI Agents • MCP • Automation
+Building AI-powered applications and experimenting with intelligent workflows, automation, and LLM-powered experiences.
 
 ---
 
-## 🌱 Open Source
+# 🌱 Currently Exploring
 
-I enjoy building tools that make developers more productive.
-
-Projects include:
-
-- **withings-node-oauth2** — OAuth2 client for the Withings API
-- More developer tools coming soon...
+- AI Agents
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- Distributed Systems
+- Cloud Architecture
 
 ---
 
-## ❤️ Beyond Code
+# ❤️ Engineering Philosophy
 
 ```ts
 function build() {
-  code();
-  coffee();
-  gym();
-  repeat();
+    code();
+    coffee();
+    gym();
+    repeat();
 }
 ```
 
 ---
 
-## 🤝 Let's Connect
+# 🌍 Open Source
 
-I'm always interested in discussing
+I enjoy building software that solves real problems and sharing it with the community.
 
-- Open Source
-- AI
-- TypeScript
-- Developer Experience
-- Building products
-- Startups
+Projects you'll find here include:
 
-If you're building something interesting, I'd love to hear about it.
+- 📦 TypeScript libraries
+- 🤖 AI experiments
+- 🌐 Full-stack applications
+- ☁️ Cloud-native services
+- 🚀 Backend systems
+
+---
+
+# 📈 Current Focus
+
+- Building AI-powered products
+- Scaling modern web applications
+- Contributing to Open Source
+- Shipping products people love
+- Learning something new every day
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on ambitious products, open-source projects, and challenging engineering problems.
+
+If you're building something meaningful, I'd love to connect.
+
+<p align="center">
+
+<a href="https://github.com/desirekaleba">GitHub</a> •
+<a href="https://www.linkedin.com/in/desire-kaleba-a0a122197/">LinkedIn</a> •
+<a href="https://velabid.com">Velabid</a> •
+<a href="https://pagevow.com">PageVow</a>
+
+</p>
